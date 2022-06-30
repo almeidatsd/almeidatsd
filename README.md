@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Leonardo.
+- 👀 I’m interested in everything that can bring me knowledge.
+- 🌱 I’m currently studying to be a Data Scientist and Analyst.
